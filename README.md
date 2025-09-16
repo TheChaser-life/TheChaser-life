@@ -4,6 +4,27 @@
 - 📫 How to reach me :0968315349 
 - ⚡ Fun fact: I love game
 
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" width="50" alt="C++ Logo" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" width="50" alt="Python Logo" />
+  <!-- Git -->
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" alt="Git Logo" />
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL Logo" />
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy Logo" />
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib Logo" />
+  <!-- Scikit-Learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn Logo" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" alt="PyTorch Logo" />
+</p>
+
 
 ## 🔥 GitHub stats: 
 
