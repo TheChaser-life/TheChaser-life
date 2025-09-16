@@ -1,6 +1,6 @@
 
 <p align = "center">
-<a href="https://github.com/TheChaser-life"><img width="30%" alt="My certificate" src="./Certificate.jpg" /></a></p>
+<a href="https://github.com/TheChaser-life"><img width="70%" alt="My certificate" src="./Certificate.jpg" /></a></p>
 </p>
 
 <br/>
