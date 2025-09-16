@@ -2,7 +2,10 @@
 <p align = "center">
 <a href="https://github.com/TheChaser-life"><img width="30%" alt="My certificate" src="./Certificate.jpg" /></a></p>
 </p>
-----
+
+<br/>
+
+---
 - 👋 Hi, I’m @TheChaser-life
 - 👀 I’m interested in travelling
 - 🌱 I’m currently learning computer science 
