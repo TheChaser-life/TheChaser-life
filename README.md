@@ -6,11 +6,12 @@
 <br/>
 
 ---
-- 👋 Hi, I’m @TheChaser-life
-- 👀 I’m interested in travelling
-- 🌱 I’m currently learning computer science 
-- 📫 How to reach me :0968315349 
-- ⚡ Fun fact: I love game
+- 👋 Hi, I’m Thinh
+- 👀 I’m interested in Natural Language Processing topic
+- 🌱 I’m currently learning computer science at UIT
+- 📫 How to reach me :https://www.facebook.com/ma.hoang.9693001 
+- ⚡ Fun fact: I love game, anime and traveling
+- 🤗 My Hugging Face accounts: https://huggingface.co/ThinhLLM
 
 ## 💻 Tech Stack
 
