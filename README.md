@@ -38,6 +38,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn Logo" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" alt="PyTorch Logo" />
+
+  <img src="https://huggingface.co/brand/icon.svg" width="50" alt="Hugging Face Logo" />
 </p>
 
 
