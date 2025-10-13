@@ -39,8 +39,8 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" alt="PyTorch Logo" />
 
-  <!-- Hugging Face -->
-  <img src="https://cdn.jsdelivr.net/gh/huggingface/branding@main/hf-logo.svg" width="50" alt="Hugging Face Logo" />
+  <!-- Hugging Face (PNG fallback) -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="Hugging Face Logo" />
 </p>
 
 
