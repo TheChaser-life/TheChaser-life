@@ -41,7 +41,7 @@
   <!-- Hugging Face (PNG fallback) -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="Hugging Face Logo" />
 
-  <img src="https://raw.githubusercontent.com/hwchase17/langchainjs/main/docs/static/img/logo.svg" width="48" alt="LangChain Logo">
+  <img src="https://cdn.jsdelivr.net/gh/hwchase17/langchainjs/docs/static/img/logo.svg" width="48" alt="LangChain Logo">
 </p>
 
 
