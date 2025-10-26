@@ -38,9 +38,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn Logo" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" alt="PyTorch Logo" />
-
   <!-- Hugging Face (PNG fallback) -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="Hugging Face Logo" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/LangChain_Logo.svg">
 </p>
 
 
