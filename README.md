@@ -44,6 +44,10 @@
   <img width="50" alt="1756835135992" src="https://github.com/user-attachments/assets/cf82b502-9718-4dbb-a4cf-d94e9b5ebd12" />
 
   <img width="50" alt="chroma d840f629-icon" src="https://github.com/user-attachments/assets/e736b671-7ec4-4758-8f92-df4fead9b3a0" />
+
+  <img width="225" height="225" alt="tải xuống (1)" src="https://github.com/user-attachments/assets/4a907851-86da-4778-9f0e-e186eea01505" />
+
+  <img width="600" height="600" alt="pinecone-icon-logo-png_seeklogo-482365" src="https://github.com/user-attachments/assets/224036a6-e9a0-4a67-96ce-99d054b1500f" />
 </p>
 
 
