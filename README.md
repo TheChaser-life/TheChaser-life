@@ -41,7 +41,7 @@
   <!-- Hugging Face (PNG fallback) -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="Hugging Face Logo" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/LangChain_Logo.svg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/LangChain_Logo.svg">
 </p>
 
 
