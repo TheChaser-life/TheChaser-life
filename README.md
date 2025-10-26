@@ -41,7 +41,7 @@
   <!-- Hugging Face (PNG fallback) -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="Hugging Face Logo" />
 
-  <img width="600" height="600" alt="1756835135992" src="https://github.com/user-attachments/assets/cf82b502-9718-4dbb-a4cf-d94e9b5ebd12" />
+  <img width="50" alt="1756835135992" src="https://github.com/user-attachments/assets/cf82b502-9718-4dbb-a4cf-d94e9b5ebd12" />
 </p>
 
 
