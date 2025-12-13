@@ -17,6 +17,12 @@
 
 <br/>
 
+<p align = "center">
+<a href="https://github.com/TheChaser-life"><img width="70%" alt="My certificate" src="./certificate-1765640900455.jpg" /></a></p>
+</p>
+
+<br/>
+
 ---
 - 👋 Hi, I’m Thinh
 - 👀 I’m interested in Natural Language Processing topic
