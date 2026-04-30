@@ -1,5 +1,5 @@
 <a href="https://www.credly.com/badges/05f0b2ac-8ed8-420b-8c39-87d1df435367/public_url" target="_blank">
-  <img src="./aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
+  <img src="./aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="70%" />
 </a>
 
 <p align = "center">
