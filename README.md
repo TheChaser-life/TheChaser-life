@@ -6,13 +6,7 @@
 <br/>
 
 <p align = "center">
-<a href="https://github.com/TheChaser-life"><img width="70%" alt="My certificate" src="./PyTorch.jpg" /></a></p>
-</p>
-
-<br/>
-
-<p align = "center">
-<a href="https://github.com/TheChaser-life"><img width="70%" alt="My certificate" src="./RAG_Bootcamp.jpg" /></a></p>
+<a href="https://github.com/TheChaser-life"><img width="70%" alt="My certificate" src="./k8s.png" /></a></p>
 </p>
 
 <br/>
