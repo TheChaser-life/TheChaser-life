@@ -4,12 +4,6 @@
 </a>
 
 <p align = "center">
-<a href="https://github.com/TheChaser-life"><img width="70%" alt="My certificate" src="./aws-certified-solutions-architect-associate.png" /></a></p>
-</p>
-
-<br/>
-
-<p align = "center">
 <a href="https://github.com/TheChaser-life"><img width="70%" alt="My certificate" src="./k8s.png" /></a></p>
 </p>
 
