@@ -16,12 +16,13 @@
 <br/>
 
 ---
-- 👋 Hi, I’m Thinh
-- 👀 I’m interested in Natural Language Processing topic
+- 👋 Hi, I’m Phuc Thinh Lien
+- 👀 I’m interested in Cloud Computing and System Design topic
 - 🌱 I’m currently learning computer science at UIT
-- 📫 How to reach me :https://www.facebook.com/ma.hoang.9693001 
+- 📫 How to reach me :https://www.facebook.com/ma.hoang.9693001
+-  💼 My LinkedIn: https://www.linkedin.com/in/ph%C3%BAc-th%E1%BB%8Bnh-673416303/
 - ⚡ Fun fact: I love game, anime and traveling
-- 🤗 My Hugging Face accounts: https://huggingface.co/ThinhLLM
+- 🎯 Current goal: Get an Intern Cloud/DevOps Engineer job
 
 ## 💻 Tech Stack
 
@@ -32,26 +33,16 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" width="50" alt="Python Logo" />
   <!-- Git -->
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" alt="Git Logo" />
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL Logo" />
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy Logo" />
-  <!-- Matplotlib -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib Logo" />
-  <!-- Scikit-Learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn Logo" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" alt="PyTorch Logo" />
-  <!-- Hugging Face (PNG fallback) -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="Hugging Face Logo" />
-
-  <img width="50" alt="1756835135992" src="https://github.com/user-attachments/assets/cf82b502-9718-4dbb-a4cf-d94e9b5ebd12" />
-
-  <img width="50" alt="chroma d840f629-icon" src="https://github.com/user-attachments/assets/e736b671-7ec4-4758-8f92-df4fead9b3a0" />
-
-  <img width="50" alt="tải xuống (1)" src="https://github.com/user-attachments/assets/4a907851-86da-4778-9f0e-e186eea01505" />
-
-  <img width="50" alt="pinecone-icon-logo-png_seeklogo-482365" src="https://github.com/user-attachments/assets/224036a6-e9a0-4a67-96ce-99d054b1500f" />
+  <!-- AWS -->
+  <img src="./tech_stack/1_neG4D9C8UcJvNn6bverfIA-removebg-preview.png" width="50" alt="AWS Logo" />
+  <!-- Docker -->
+  <img src="./tech_stack/tải_xuống-removebg-preview.png" width="50" alt="Docker Logo" />
+  <!-- K8s -->
+  <img src="./tech_stack/Kubernetes_logo_without_workmark.svg-removebg-preview.png" width="50" alt="K8s Logo" />
+   <!-- GitHub Actions -->
+  <img src="./tech_stack/44036562-removebg-preview.png" width="50" alt="GitHub Actions Logo" />
+  <!-- Terraform -->
+  <img src="./tech_stack/terraform_logo_fa08e53501-removebg-preview.png" width="50" alt="GitHub Actions Logo" />
 </p>
 
 
