@@ -1,3 +1,11 @@
+- 👋 Hi, I’m Phuc Thinh Lien
+- 👀 I’m interested in Cloud Computing and System Design topic
+- 🌱 I’m currently learning computer science at UIT
+- 📫 How to reach me :https://www.facebook.com/ma.hoang.9693001
+-  💼 My LinkedIn: https://www.linkedin.com/in/ph%C3%BAc-th%E1%BB%8Bnh-673416303/
+- ⚡ Fun fact: I love game, anime and traveling
+- 🎯 Current goal: Get an Intern Cloud/DevOps Engineer job
+
 <p align = "center">
 <a href="https://www.credly.com/badges/05f0b2ac-8ed8-420b-8c39-87d1df435367/public_url" target="_blank">
   <img src="./aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="70%" />
@@ -16,13 +24,6 @@
 <br/>
 
 ---
-- 👋 Hi, I’m Phuc Thinh Lien
-- 👀 I’m interested in Cloud Computing and System Design topic
-- 🌱 I’m currently learning computer science at UIT
-- 📫 How to reach me :https://www.facebook.com/ma.hoang.9693001
--  💼 My LinkedIn: https://www.linkedin.com/in/ph%C3%BAc-th%E1%BB%8Bnh-673416303/
-- ⚡ Fun fact: I love game, anime and traveling
-- 🎯 Current goal: Get an Intern Cloud/DevOps Engineer job
 
 ## 💻 Tech Stack
 
