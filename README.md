@@ -1,3 +1,6 @@
+<a href="https://www.credly.com/badges/05f0b2ac-8ed8-420b-8c39-87d1df435367/public_url" target="_blank">
+  <img src="./aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
+</a>
 
 <p align = "center">
 <a href="https://github.com/TheChaser-life"><img width="70%" alt="My certificate" src="./aws-certified-solutions-architect-associate.png" /></a></p>
